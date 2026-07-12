@@ -4,7 +4,7 @@
 
 🌍 Based in Tehran, Iran — open to remote work, both within Iran and internationally.
 
-📄 Persian version: [README.fa.md](README.fa.md)
+📄 Persian version: [README-fa.md](README-fa.md)
 
 ## 🎯 Looking for
 
