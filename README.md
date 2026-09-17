@@ -26,12 +26,30 @@ A **DevOps / Infrastructure internship** — remote-friendly. Also open to inter
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white)
+![Traefik](https://img.shields.io/badge/Traefik-36CFD1?style=flat&logo=traefik&logoColor=white)
+![Vagrant](https://img.shields.io/badge/Vagrant-1868F2?style=flat&logo=vagrant&logoColor=white)
+![MinIO](https://img.shields.io/badge/MinIO-FF6900?style=flat&logo=minio&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white)
+![Vaultwarden](https://img.shields.io/badge/Vaultwarden-1E9E7C?style=flat&logo=vaultwarden&logoColor=white)
+![Nexus](https://img.shields.io/badge/Nexus-BC1E2D?style=flat&logo=sonatype&logoColor=white)
 
 - Linux system administration
 - Docker & Docker Compose
+- Kubernetes & K3s orchestration
 - Git & GitHub workflows
-- Networking fundamentals (routing, DNS, subnetting)
+- Python programming
+- TensorFlow & deep learning
 - Monitoring stacks (Prometheus, Grafana)
+- Infrastructure as Code (Ansible)
+- Reverse proxy (Traefik)
+- Virtual machine management (Vagrant)
+- Object storage (MinIO)
+- CI/CD pipelines (GitLab)
+- Secrets management (Vaultwarden)
+- Artifact repository (Nexus)
+- Networking fundamentals (routing, DNS, subnetting)
 
 ## 📌 Projects
 
