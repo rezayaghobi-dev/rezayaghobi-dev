@@ -1,6 +1,6 @@
 # Hi, I'm Reza Yaghobi
 
-18-year-old Computer Networks student (Kardani, term 2 — Shamsipour Technical College, Tehran, Iran), building real DevOps skills through hands-on projects while I study. Not claiming to be a DevOps engineer yet — I'm actively learning it the practical way: by running real infrastructure.
+19-year-old Computer Networks student (Kardani, term 3 — Shamsipour Technical College, Tehran, Iran), building real DevOps skills through hands-on projects while I study. Mid Level  DevOps engineer  — I'm actively learning it the practical way: by running real infrastructure.
 
 🌍 Based in Tehran, Iran — open to remote work, both within Iran and internationally.
 
@@ -12,6 +12,9 @@ A **DevOps / Infrastructure internship** — remote-friendly. Also open to inter
 
 ## 📜 Certifications
 
+- Associate DevOps engineer (Arvan cloud)
+- Professional DevOps engineer (Arvan cloud)
+- Expert DevOps engineer (Arvan cloud)
 - CompTIA Network+
 - LPIC-1
 - LPIC-2
@@ -62,7 +65,7 @@ A **DevOps / Infrastructure internship** — remote-friendly. Also open to inter
 ## 🎓 Education
 
 **Kardani (Associate) in Computer Networks** — Shamsipour Technical College, Tehran
-Term 2 of the program; 3 years remaining to a Bachelor's degree.
+Term 3 of the program; 3 years remaining to a Bachelor's degree.
 
 ## 📫 Contact
 
